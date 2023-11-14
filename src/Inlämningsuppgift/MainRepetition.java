@@ -6,5 +6,7 @@ public class MainRepetition {
         System.out.println("Live long and prosper");
         System.out.println("Hello dad!");
         System.out.println("Hello cat!");
+
+        System.out.println("Hello Everyone!");
     }
 }
