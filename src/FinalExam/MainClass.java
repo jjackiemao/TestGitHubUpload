@@ -1,6 +1,6 @@
 package FinalExam;
 
-import FinalExamPracticeTool.practiceLongestWordFinder;
+import FinalExam.longestWordFinder;
 import java.util.Scanner;
 
 
